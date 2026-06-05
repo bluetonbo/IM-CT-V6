@@ -14,7 +14,7 @@ except:
     pass
 
 # 파일 경로 (사용자 환경에 맞게 자동 설정)
-BASE_PATH = r'C:\000-D\KW\01-AI\2025-11-12-CT\CT-STANDARD-AI'
+BASE_PATH = r'C:\000-D\KW\01-AI\03-CT'
 FILE_NAME = 'CT-INPUT-V6.xlsx'
 FILE_PATH = os.path.join(BASE_PATH, FILE_NAME)
 
