@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import os
-import tkinter as tk
+
 from tkinter import messagebox, ttk
 import ctypes
 from sklearn.ensemble import RandomForestRegressor, GradientBoostingRegressor
